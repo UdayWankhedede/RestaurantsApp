@@ -1,0 +1,35 @@
+{
+  "resturants": [
+    {
+      "id": 1,
+      "name": "KFC resturant",
+      "address": "Pune Warje ",
+      "email": "kfc@test.com"
+    },
+    {
+      "id": 2,
+      "name": "Burger resturant",
+      "address": "Nagpur ",
+      "email": "Burger@test.com"
+    },
+    {
+      "id": 3,
+      "name": "Durga resturant",
+      "address": "Mumbai ",
+      "email": "Durga@test.com"
+    },
+    {
+      "id": 4,
+      "name": "Dominos resturant",
+      "address": "Pune  ",
+      "email": "Dominos@test.com"
+    }
+,
+    {
+      "id": 5,
+      "name": "Durga resturant",
+      "address": "Pune Karvenagar ",
+      "email": "Durga@test.com"
+    }
+  ]
+}
